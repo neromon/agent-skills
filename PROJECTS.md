@@ -6,8 +6,8 @@ Keep one canonical repository per project whenever possible.
 
 | Project | Repository | Start file | Notes |
 |---|---|---|---|
-| Example Project | `https://github.com/YOUR-USER/example-project` | `START_HERE.md` | Replace this row |
-| agent-skills | `https://github.com/YOUR-USER/agent-skills` | `CHATGPT_START_HERE.md` | Bootstrap/reusable agent instructions |
+| PathOS | `https://github.com/neromon/PathOS` | `START_HERE.md` | Canonical PathOS application repository |
+| agent-skills | `https://github.com/neromon/agent-skills` | `CHATGPT_START_HERE.md` | Bootstrap and reusable agent instructions |
 
 ## Rules
 
