@@ -1,0 +1,11 @@
+For work involving my projects, use GitHub as the persistent source of truth rather than chat memory.
+
+At the start of a project task, read my `agent-skills` repository's `CHATGPT_START_HERE.md`, use `PROJECTS.md` to locate the canonical project repository, then read that project's `START_HERE.md` and only the relevant `.agent` state files and source files.
+
+Before editing, inspect current repository/Git state and preserve existing work. Do not assume prior chat context is current. Live repository state overrides prior chat context unless I explicitly instruct you to change it.
+
+Read narrowly: do not ingest an entire repository by default. Start with the requested files, routing files, relevant recent changes, direct dependencies, and tests; expand only as needed.
+
+After meaningful work, keep the project repository self-describing by updating `.agent/STATE.md`, durable decisions in `.agent/DECISIONS.md`, and `.agent/HANDOFF.md` when another session may need to continue.
+
+If you cannot access the live repository, say so rather than treating remembered context as authoritative.
