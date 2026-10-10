@@ -8,6 +8,7 @@ Keep one canonical repository per project whenever possible.
 |---|---|---|---|
 | FinanceOS | `https://github.com/neromon/financeOS` | `START_HERE.md` | Canonical private financeOS application repository; Windows/iPhone clients and shared backend |
 | PathOS | `https://github.com/neromon/PathOS` | `START_HERE.md` | Canonical PathOS application repository |
+| ResearchOS | `https://github.com/neromon/ResearchOS` | `START_HERE.md` | Canonical private research workspace; Windows Setup/Update releases; separate from PathOS |
 | agent-skills | `https://github.com/neromon/agent-skills` | `CHATGPT_START_HERE.md` | Bootstrap and reusable agent instructions |
 
 ## Rules
